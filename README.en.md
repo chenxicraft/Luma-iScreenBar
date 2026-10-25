@@ -15,6 +15,24 @@ A lightweight macOS menu bar app for BenQ iScreenBar, with a refined interface, 
 - **Brightness shortcuts that work your way.** Use `Fn + F1 / F2` by default, or choose your own key combinations. Hold a shortcut to keep adjusting brightness instead of pressing it repeatedly. Shortcut changes take effect after saving.
 - **More flexible idle lighting.** Supplement the lamp’s hardware presence detection with keyboard-and-mouse idle timers ranging from **5 seconds to 30 minutes**. Resume activity to restore the previous lighting state.
 
+## Interface preview
+
+### Menu bar panel
+
+<img src="docs/images/panel.png" alt="Menu bar panel" width="380">
+
+### Scene editor
+
+<img src="docs/images/scenes.png" alt="Scene editor" width="900">
+
+### Presence detection
+
+<img src="docs/images/presence.png" alt="Presence detection" width="900">
+
+### Brightness shortcuts
+
+<img src="docs/images/shortcuts.png" alt="Brightness shortcuts" width="900">
+
 ## Features
 
 - Power, brightness, color temperature, automatic brightness, and video mode.
