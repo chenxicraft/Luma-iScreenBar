@@ -19,7 +19,7 @@ A lightweight macOS menu bar app for BenQ iScreenBar, with a refined interface, 
 
 ### Menu bar panel
 
-<img src="docs/images/panel.png" alt="Menu bar panel" width="380">
+<img src="docs/images/luma-panel-clean.png" alt="Menu bar panel" width="380">
 
 ### Scene editor
 

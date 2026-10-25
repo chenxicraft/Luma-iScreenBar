@@ -17,7 +17,7 @@
 
 ### 菜单栏展开状态
 
-<img src="docs/images/panel.png" alt="菜单栏展开状态" width="380">
+<img src="docs/images/luma-panel-clean.png" alt="菜单栏展开状态" width="380">
 
 ### 模式中心
 
