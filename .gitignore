@@ -1,0 +1,5 @@
+.DS_Store
+*.app/
+*.dmg
+*.zip
+source/assets/AppIcon.iconset/
