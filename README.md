@@ -1,4 +1,4 @@
-# Luma for MacOS
+# Luma-iScreenBar
 
 **Light, beautifully controlled.**
 
@@ -23,7 +23,7 @@
 
 ## 安装
 
-从 [Releases](https://github.com/chenxicraft/Luma-for-MacOS/releases/latest) 下载 DMG 或 ZIP。将 `Luma.app` 移入 Applications 后启动。请先退出原版 iScreenBar，避免两个应用同时控制挂灯。
+从 [Releases](https://github.com/chenxicraft/Luma-iScreenBar/releases/latest) 下载 DMG 或 ZIP。将 `Luma.app` 移入 Applications 后启动。请先退出原版 iScreenBar，避免两个应用同时控制挂灯。
 
 分享版要求 **macOS 14 或更新版本**，包含 Apple Silicon 和 Intel 架构。Intel 与旧版 macOS 尚未经实机验证。macOS 26 及以上使用液态玻璃，旧系统使用兼容材质。
 

@@ -1,4 +1,4 @@
-# Luma for MacOS
+# Luma-iScreenBar
 
 **Light, beautifully controlled.**
 
@@ -6,7 +6,7 @@ English · [简体中文](README.md)
 
 A lightweight macOS menu bar app for BenQ iScreenBar, with a refined interface, customizable lighting scenes, hold-to-dim keyboard shortcuts, and idle-based lighting automation.
 
-[Download the latest release](https://github.com/chenxicraft/Luma-for-MacOS/releases/latest)
+[Download the latest release](https://github.com/chenxicraft/Luma-iScreenBar/releases/latest)
 
 ## What makes Luma different
 
@@ -28,7 +28,7 @@ The current app interface is in Simplified Chinese. English documentation does n
 
 ## Installation
 
-Download the DMG or ZIP from [Releases](https://github.com/chenxicraft/Luma-for-MacOS/releases/latest), then move `Luma.app` to Applications. Quit the original iScreenBar app before starting Luma to avoid competing lighting commands.
+Download the DMG or ZIP from [Releases](https://github.com/chenxicraft/Luma-iScreenBar/releases/latest), then move `Luma.app` to Applications. Quit the original iScreenBar app before starting Luma to avoid competing lighting commands.
 
 Release builds require **macOS 14 or later** and include Apple Silicon and Intel binaries. Intel and older macOS versions have not been tested on physical machines. macOS 26 and later use Liquid Glass; older systems use compatible materials.
 
